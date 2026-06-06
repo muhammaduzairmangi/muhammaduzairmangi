@@ -8,14 +8,14 @@
 <br/>
 
 **CS Graduate · AI/ML Developer · Youth Climate Fellow · Flutter Developer**  
-📍 Sukkur, Sindh, Pakistan &nbsp;·&nbsp; 🌐 [muhammaduzairmangi.vercel.app](https://muhammaduzairmangi.vercel.app/) &nbsp;·&nbsp; 📧 m.uzairmangi@gmail.com
+📍 Sukkur, Sindh, Pakistan &nbsp;·&nbsp; 🌐 [muhammaduzairmangi.github.io](https://muhammaduzairmangi.github.io/) &nbsp;·&nbsp; 📧 m.uzairmangi@gmail.com
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuhammadUzayrr&style=flat-square&color=1D9E75&label=Profile+Views)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/muhammad-uzair-mangi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat-square&logo=kaggle)](https://www.kaggle.com/datasets/uzairpk/pakistani-celebritiessingers-recognition-dataset)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1D9E75?style=flat-square&logo=vercel)](https://muhammaduzairmangi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1D9E75?style=flat-square&logo=vercel)](https://muhammaduzairmangi.github.io/)
 
 </div>
 
